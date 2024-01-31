@@ -81,7 +81,7 @@
                                 </div>
                               </div>
                             </td>
-                            <td>Accessories</td>
+                            <td>Chuc mung nam moi</td>
                             <td>19 July, 2023</td>
                             <td>$65.29</td>
                             <td>235</td>
